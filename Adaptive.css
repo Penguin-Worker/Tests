@@ -1,0 +1,1445 @@
+@media (max-width: 800px) 
+{body{
+    max-width: 768px;
+}
+.header{
+    
+position: absolute;
+height: 90px;
+left: 0%;
+right: 0%;
+top: 0px;
+width: 768px;
+}
+.frame{
+   
+position: absolute;
+height: 90px;
+left: 0%;
+right: 0%;
+top: calc(50% - 90px/2);
+
+}
+.image{
+    
+position: absolute;
+height: 19px;
+left: 2.67%;
+right: 68.69%;
+top: 43px;
+
+border-radius: 0px;
+
+}
+.framesforbuttons{
+   
+position: absolute;
+height: 50px;
+left: 32.68%;
+right: 0.65%;
+top: calc(50% - 50px/2);
+width: 512px;
+
+}
+.button1{
+/* Projects */
+
+position: absolute;
+height: 24px;
+left: 2.73%;
+right: 84.96%;
+top: calc(50% - 24px/2);
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 24px;
+/* identical to box height, or 160% */
+
+color: #1B1A1A;
+
+}
+.button2{
+    /* About */
+
+position: absolute;
+height: 24px;
+left: 18.55%;
+right: 69.53%;
+top: calc(50% - 24px/2);
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 24px;
+/* identical to box height, or 160% */
+
+color: #1B1A1A;
+
+}
+.button3{
+    /* News */
+
+position: absolute;
+height: 24px;
+left: 32.03%;
+right: 59.77%;
+top: calc(50% - 24px/2);
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 24px;
+/* identical to box height, or 160% */
+
+color: #1B1A1A;
+
+}
+
+.button4{
+    /* Team */
+
+position: absolute;
+height: 24px;
+left: 44.34%;
+right: 45.9%;
+top: calc(50% - 24px/2);
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 24px;
+/* identical to box height, or 160% */
+
+color: #1B1A1A;
+
+}
+
+.button5{
+    /* Contact */
+
+position: absolute;
+height: 24px;
+left: 57.23%;
+right: 29.49%;
+top: calc(50% - 24px/2);
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 24px;
+/* identical to box height, or 160% */
+
+color: #1B1A1A;
+
+}
+
+.buttonTOPframe{
+    
+position: absolute;
+height: 46px;
+left: 73.5%;
+right: 0%;
+top: calc(50% - 46px/2);
+width: 135.7px;
+}
+.buttonTOP{
+    /* Rectangle */
+
+box-sizing: border-box;
+
+position: absolute;
+height: 46px;
+left: 0%;
+right: 0%;
+top: 0px;
+width: 135.7px;
+background: #1B1A1A;
+border: 1px solid #000000;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 14px;
+
+}
+
+.buttonTOPText{
+    /* Get template */
+
+position: absolute;
+width: 118px;
+height: 24px;
+left: 8.7px;
+top: calc(50% - 24px/2);
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.4px;
+
+color: #FFFFFF;
+
+
+}
+.frame2{
+    
+position: absolute;
+height: 720px;
+margin: 0;
+top: 90px;
+width: 768px;
+}
+.frames2forimage{
+    /* IMAGE */
+
+position : absolute;
+height: 720px;
+left: 50%;
+right: 0%;
+
+width: 384px;
+border-radius: 0px;
+
+}
+.frame2Text{
+   
+position: absolute;
+height: 720px;
+left: 0%;
+right: 50%;
+top: 0px;
+max-width: 384px;
+}
+.frame2Text1{
+    /* Wishbone+Partners */
+
+position: absolute;
+height: 20px;
+left: 7.55%;
+right: 42.97%;
+top: calc(50% - 20px/2 - 342px);
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+letter-spacing: 2px;
+text-transform: uppercase;
+
+color: #645C55;
+
+
+}
+.frame2Text2{
+    /* The home of beautiful architecture. */
+    word-break: break-word;
+position: absolute;
+height: 423px;
+left: 6.77%;
+right: 23.73%;
+top: calc(50% - 423px/2 - 105.5px);
+max-width: 268px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 70px;
+/* or 110% */
+
+color: #1B1A1A;
+
+}
+
+.frame2Text3{
+    /* We are an architecture firm with a focus on beautiful but functional design. At its heart, we believe design is about usability and accessibility — these are the guiding principles for our work. Read more about our previous projects, our process and our team below. */
+
+position: absolute;
+height: 168px;
+left: 7.03%;
+right: 8.14%;
+top: calc(50% - 168px/2 + 189px);
+max-width: 326px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+
+color: #403E3B;
+
+
+}
+
+.frame2Text4{
+    /* Frame */
+
+position: absolute;
+height: 46px;
+left: 6.77%;
+right: 60.94%;
+top: calc(50% - 46px/2 + 311px);
+
+
+}
+.frame2Text44{
+    /* Read more */
+
+position: absolute;
+height: 24px;
+left: 11.29%;
+right: 10.48%;
+top: calc(50% - 24px/2);
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.4px;
+
+color: #1B1A1A;
+
+}
+
+.frame3{
+    /* Frame */
+
+position: absolute;
+height: 582px;
+margin: 0;
+top: 910px;
+max-width: 768px;
+
+}
+.frame3Text1{
+    /* Our firm */
+
+position: absolute;
+height: 38px;
+left: 0%;
+right: 82.55%;
+top: -4px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 38px;
+/* identical to box height, or 119% */
+
+color: #403E3B;
+
+}
+
+.frame3In{
+    /* Frame */
+
+position: absolute;
+height: 582px;
+left: 34.72%;
+right: 0%;
+top: 0px;
+
+
+}
+
+.frame3Text2{
+    /* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat. Aenean faucibus nibh et justo cursus id rutrum lorem imperdiet. Nunc ut sem vitae risus tristique posuere. */
+
+position: absolute;
+height: 144px;
+left: 0.07%;
+right: 1.59%;
+top: 308px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+
+color: #403E3B;
+
+
+}
+
+.frame3Text3{
+    /* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat. Aenean faucibus nibh et justo cursus id rutrum lorem imperdiet. Nunc ut sem vitae risus tristique posuere. */
+
+position: absolute;
+height: 144px;
+left: 0.07%;
+right: 1.59%;
+top: 154px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+
+color: #403E3B;
+
+
+}
+
+.frame3Text4{
+    /* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat. Aenean faucibus nibh et justo cursus id rutrum lorem imperdiet. Nunc ut sem vitae risus tristique posuere. */
+
+position: absolute;
+height: 144px;
+left: 0.07%;
+right: 1.59%;
+top: 0px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+
+color: #403E3B;
+
+
+}
+
+.frame3In2{
+    /* Frame */
+
+position: absolute;
+height: 100px;
+left: 0%;
+right: 0%;
+top: 462px;
+
+}
+
+.frame3Image{
+    /* IMAGE */
+
+box-sizing: border-box;
+
+position: absolute;
+height: 84px;
+left: 0.07%;
+right: 83.18%;
+top: calc(50% - 84px/2);
+
+border: 3px solid #CEC4BC;
+border-radius: 64px;
+
+}
+ .frame3In3{
+    /* Frame */
+
+position: absolute;
+height: 100px;
+left: 16.76%;
+right: 44.15%;
+top: calc(50% - 100px/2);
+
+
+ }
+.frame3Text5{
+    /* Stephen Collier */
+
+position: absolute;
+height: 26px;
+left: 15.48%;
+right: 15.13%;
+top: 30px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 26px;
+/* identical to box height, or 153% */
+
+color: #1B1A1A;
+
+
+}
+.frame3Text6{
+    /* Senior Partner */
+
+position: absolute;
+height: 14px;
+left: 15.48%;
+right: 31.97%;
+top: 53px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 14px;
+/* identical to box height, or 100% */
+
+color: #645C55;
+
+
+}
+
+.frame4{
+    /* Frame */
+margin: 0;
+position: absolute;
+height: 600px;
+object-fit: contain;
+top: 1592px;
+max-width: 768px;
+background-image: url('IMAGE143.png');
+
+}
+
+.frame4In{
+    /* Frame */
+
+position: absolute;
+height: 600px;
+left: 63.28%;
+right: 0%;
+top: 0px;
+max-width: 280px;
+
+}
+.frame4Text1{
+    /* Reeding House */
+
+position: absolute;
+height: 20px;
+left: 0%;
+right: 48.23%;
+top: calc(50% - 20px/2 - 24px);
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+letter-spacing: 2px;
+text-transform: uppercase;
+
+color: #403E3B;
+
+
+}
+.frame4Text2{
+    /* Lorem ipsum dolor sit amet, dolor sit amet dolor sit amet. */
+
+position: absolute;
+height: 48px;
+left: 0%;
+right: 5%;
+top: calc(50% - 48px/2 + 10px);
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+max-width: 268px;
+color: #645C55;
+
+}
+ .frame5{
+    /* Frame */
+
+position: absolute;
+height: 481px;
+max-width: 768px;
+top: 2292px;
+margin: 0;
+ }
+ .frame5Layout{
+    top: 0;
+    left: 0;  
+    height: 100%;
+    max-width: 768px;   
+    border-radius: 0px;
+ }
+ 
+ .frame5In{
+    /* Frame */
+
+position: absolute;
+height: 82px;
+left: 25%;
+right: 25%;
+top: 0px;
+max-width: 384px;
+
+ }
+ .frame5Text1{
+    /* Our process */
+
+position: absolute;
+width: 122px;
+height: 20px;
+left: calc(50% - 122px/2);
+top: 0px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+text-align: center;
+letter-spacing: 2px;
+text-transform: uppercase;
+
+color: #645C55;
+
+
+ }
+.frame5Text2{
+    /* How we do what we do. */
+
+position: absolute;
+width: 468px;
+height: 42px;
+left: calc(50% - 468px/2);
+top: 33px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 39px;
+line-height: 42px;
+/* identical to box height, or 108% */
+text-align: center;
+
+color: #1B1A1A;
+
+
+}
+
+.frame5In2{
+    /* Frame */
+max-width: 768px;
+position: absolute;
+height: 359px;
+left: 0;
+top: 122px;
+
+
+}
+.frame5In2In1{
+    /* Frame */
+
+position: absolute;
+height: 359px;
+left: 0%;
+right: 67.65%;
+top: 0px;
+max-width: 242px;
+
+}
+.frame5forImage1{
+    /* IMAGE */
+
+position: absolute;
+height: 102px;
+left: 26.03%;
+right: 25.62%;
+top: 0px;
+
+border-radius: 0px;
+
+}
+.frame5In2In13OP{
+    /* Frame */
+
+position: absolute;
+height: 242px;
+left: 0%;
+right: 0%;
+top: 117px;
+max-width: 242px;
+
+}
+
+.frame5Text1OP_1{
+    /* Sketching */
+
+position: absolute;
+width: 89px;
+height: 26px;
+left: calc(50% - 89px/2 + 0.5px);
+top: 0px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 26px;
+/* identical to box height, or 144% */
+text-align: center;
+
+color: #403E3B;
+
+
+}
+.frame5Text1OP_2{
+    /* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ut tristique libero. Nulla luctus sapien ac arcu tempor, vitae tempor leo iaculis. */
+
+position: absolute;
+width: 242px;
+height: 206px;
+left: calc(50% - 242px/2);
+top: 36px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 24px;
+/* or 160% */
+text-align: center;
+
+color: #645C55;
+
+
+}
+
+.frame5In2In2{
+    /* Frame */
+
+position: absolute;
+height: 359px;
+left: 33.82%;
+right: 33.82%;
+top: 0px;
+max-width: 242px;
+
+}
+
+.frame5forImage23{
+    /* IMAGE */
+
+position: absolute;
+height: 102px;
+left: 26.03%;
+right: 25.62%;
+top: 0px;
+
+border-radius: 0px;
+
+}
+
+.frame5In2In2OP{
+    /* Frame */
+    max-width: 242px;
+position: absolute;
+height: 242px;
+left: 0%;
+right: 0%;
+top: 117px;
+
+
+}
+
+.frame5Text2OP_1{
+    /* Finalizing */
+
+position: absolute;
+width: 80px;
+height: 26px;
+left: calc(50% - 80px/2 + 0.33px);
+top: 0px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 26px;
+/* identical to box height, or 153% */
+text-align: center;
+
+color: #403E3B;
+
+
+}
+.frame5Text2OP_2{
+    /* Adipiscing elit. Nulla ut tristique libero. Nulla vitae tempor leo iaculis luctus sapien ac arcu tempor, vitae. */
+
+position: absolute;
+width: 242px;
+height: 96px;
+left: calc(50% - 242px/2);
+top: 36px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+text-align: center;
+
+color: #645C55;
+
+
+}
+
+.frame5In2In3{/* Frame */
+
+    position: absolute;
+    height: 359px;
+    left: 67.65%;
+    right: 0%;
+    top: 0px;
+    max-width: 242px;
+    }
+.frame5Text3OP_1{
+    /* Building */
+
+position: absolute;
+width: 69px;
+height: 26px;
+left: calc(50% - 69px/2 + 0.16px);
+top: 0px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 26px;
+/* identical to box height, or 153% */
+text-align: center;
+
+color: #403E3B;
+
+
+}
+.frame5Text3OP_2{
+    /* Nulla ut tristique libero. Lorem ipsum ut tristique libero. Nulla luctus sapien ac arcu tempor, vitae lorem ipsum dolor leo iaculis. */
+    max-width: 242px;
+position: absolute;
+width: 242px;
+height: 120px;
+left: calc(50% - 242px/2);
+top: 36px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+text-align: center;
+
+color: #645C55;
+
+
+}
+.frame6{
+    max-width: 768px;
+position: absolute;
+height: 600px;
+
+top: 2773px;
+background-image: url('IMAGE234.png');
+
+}
+
+.frame7{
+    
+position: absolute;
+height: 410px;
+max-width: 768px;
+top: 3373px;
+
+
+}
+
+.frame7In{
+    
+position: absolute;
+height: 290px;
+left: 9.44%;
+right: 9.44%;
+top: 60px;
+max-width: 622.93px;
+}
+
+.frame7In1{
+    /* Frame */
+
+position: absolute;
+height: 160px;
+left: -7.63%;
+
+top: 65px;
+
+max-width: 293px;
+}
+
+.frame7Text3
+{
+    /* Morbi neque ex, condimentum dapibus congue et, vulputate ut ligula. Vestibulum sit amet urna turpis. Mauris euismod elit et nisi ultrices, ut faucibus orci tincidunt. */
+
+position: absolute;
+height: 120px;
+left: 0%;
+right: 1.96%;
+top: 78px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 24px;
+/* or 160% */
+
+color: #ECE7E4;
+max-width: 287px;
+
+}
+
+.frame7In2{
+    /* Frame */
+
+position: absolute;
+height: 290px;
+left: 38.68%;
+right: 12.33%;
+top: 0px;
+width: 230.4px;
+
+}
+
+.frame8{
+    /* Frame */
+
+position: absolute;
+height: 600px;
+max-width: 768px;
+top: 3783px;
+
+background-image: url('IMAGE321.png');
+}
+
+.frame8In{
+    /* Frame */
+
+position: absolute;
+height: 600px;
+left: 4.17%;
+right: 51.04%;
+top: 0px;
+
+
+}
+
+
+.frame9{
+    
+position: absolute;
+height: 918px;
+max-width: 768px;
+top: 4383px;
+
+}
+ .frame9In{
+/* Frame */
+
+position: absolute;
+height: 698px;
+left: 8.33%;
+right: 8.33%;
+top: 122px;
+max-width: 640px;
+
+ }
+
+.frame9In1{
+    /* Frame */
+
+position: absolute;
+width: 180px;
+height: 46px;
+left: calc(50% - 180px/2 + 3px);
+top: 652px;
+
+
+}
+ 
+.frame9In2{
+    /* Frame */
+
+position: absolute;
+height: 112px;
+left: 1.33%;
+right: 48.67%;
+top: 0px;
+
+
+}
+
+.frame9In3{
+    /* Frame */
+
+position: absolute;
+height: 460px;
+left: 1.33%;
+right: 1.33%;
+top: 152px;
+
+max-width: 622.93px;
+}
+
+.frame9In3_1{
+    /* Frame */
+
+position: absolute;
+height: 460px;
+left: 0%;
+right: 67.55%;
+top: 0px;
+
+
+    max-width: 202.13px;
+}
+.frame9In3_2{
+    max-width: 202.13px;
+    /* Frame */
+
+position: absolute;
+height: 460px;
+left: 33.82%;
+right: 33.73%;
+top: 0px;
+
+
+}
+.frame9In3_3{
+    max-width: 202.13px;
+    /* Frame */
+
+position: absolute;
+height: 460px;
+left: 67.55%;
+right: 0%;
+top: 0px;
+
+
+}
+.frame9Image1{
+    max-width: 202.13px;
+}
+
+.frame9TextOnImage1{
+    word-wrap: break-word;
+    max-width: 102.13px;
+}
+.frame9TextOnImage2{
+    word-wrap: break-word;
+    max-width: 102.13px;
+}
+
+.frame10{
+    max-width: 768px;
+    /* Frame */
+
+position: absolute;
+height: 392px;
+
+top: 5217px;
+
+
+}
+.frame10In{
+    max-width: 708px;
+    left: 5%;
+}
+
+.frame10In2{
+    /* Frame */
+
+position: absolute;
+height: 392px;
+left: -2.45%;
+right: 0%;
+top: 155px;
+max-width: 752px;
+
+}
+.frame11{
+    /* Frame */
+
+position: absolute;
+height: 314px;
+
+top: 5893px;
+max-width: 768px;
+
+}
+.frame11In{
+    /* Frame */
+
+position: absolute;
+height: 114px;
+left: 9.44%;
+right: 9.44%;
+top: 100px;
+
+max-width: 622.93px;
+}
+
+.frame11In2{
+    /* Frame */
+
+position: absolute;
+height: 46px;
+left: 87.59%;
+right: 0%;
+top: 34px;
+max-width: 78px;
+word-wrap: break-word;
+}
+
+.frame11Text3{
+    word-wrap: break-word;  
+    /* Get in touch */
+
+position: absolute;
+height: 48px;
+left: 13.79%;
+right: 13.79%;
+top: 11px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+letter-spacing: 0.4px;
+
+color: #1B1A1A;
+
+
+}
+.frame11Text1{
+    max-width: 558px;
+}
+.frame11Text3{
+    max-width: 147px;
+}
+.frame12{
+    /* Frame */
+
+position: absolute;
+height: 204px;
+
+top: 6207px;
+
+max-width: 768px;
+}
+.frame12In{
+    /* Frame */
+
+position: absolute;
+height: 84px;
+left: 9.44%;
+right: 9.44%;
+top: 60px;
+max-width: 622.93px;
+
+}
+
+.frame12In2{
+    /* Frame */
+
+position: absolute;
+height: 24.61px;
+left: 90.41%;
+right: -8.39%;
+top: 59.38px;
+
+
+}
+
+
+}
+@media(max-width:400px) {
+    
+header{
+    /* Frame */
+
+position: absolute;
+height: 90px;
+left: 0%;
+right: 0%;
+top: 0px;
+max-width: 320px;
+
+}
+.frame{
+    /* Frame */
+
+position: absolute;
+height: 90px;
+left: 0%;
+right: 0%;
+top: calc(50% - 90px/2);
+
+}
+.image{
+    /* IMAGE */
+
+position: absolute;
+height: 19px;
+left: 2.67%;
+right: 28.58%;
+top: 44px;
+
+border-radius: 0px;
+
+}
+
+.button1{
+    display: none;
+   
+}
+
+.button2{
+    display: none;
+}
+.button3{
+    display: none;
+}
+.button4{
+    display: none;
+}
+.button5{
+    display: none;
+}
+.buttonTOPframe{
+    /* Frame */
+
+position: absolute;
+height: 46px;
+left: 81.68%;
+right: 0.65%;
+top: calc(50% - 46px/2);
+
+width: 56.54px;
+}
+.buttonTOP{
+    /* Rectangle */
+
+box-sizing: border-box;
+
+position: absolute;
+height: 46px;
+left: 0%;
+right: 0%;
+top: 0px;
+width: 56.54px;
+background: #1B1A1A;
+border: 1px solid #000000;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 14px;
+
+}
+.framesforbuttons{
+    /* Frame */
+
+position: absolute;
+height: 90px;
+left: 0%;
+right: 0%;
+top: calc(50% - 90px/2);
+max-width: 320px;
+
+}
+.buttonTOPText{
+    /* Get */
+display:none;
+position: absolute;
+height: 24px;
+left: 24.1%;
+right: 21.08%;
+top: calc(50% - 24px/2);
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.4px;
+
+color: #FFFFFF;
+}
+
+.frame2{
+    /* Frame */
+
+position: absolute;
+height: 972px;
+
+top: 90px;
+/* Rectangle */
+
+position: absolute;
+height: 972px;
+
+top: 0px;
+
+background: #ECE7E4;
+border-radius: 0px;
+
+max-width: 320px;
+}
+
+.frames2forimage{
+   /* IMAGE */
+   object-fit: cover;
+position: absolute;
+height: 720px;
+left: 50%;
+right: 0%;
+top: 37.1%;
+width: 160px;
+border-radius: 0px;
+
+}
+.frame2Text{
+    /* Frame */
+
+position: absolute;
+height: 720px;
+left: 0%;
+right: 50%;
+top: 0px;
+max-width: 160px;
+
+}
+
+.frame2Text1{
+    /* Wishbone+Partners */
+
+position: absolute;
+height: 40px;
+left: 7.5%;
+right: 31.88%;
+top: calc(50% - 40px/2 - 332px);
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+/* or 143% */
+letter-spacing: 2px;
+text-transform: uppercase;
+
+color: #645C55;
+
+}
+.frame2Text2{
+    /* The home of beautiful architecture. */
+
+position: absolute;
+height: 634px;
+left: 6.88%;
+right: 0%;
+top: calc(50% - 634px/2);
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 70px;
+/* or 110% */
+
+color: #1B1A1A;
+
+
+}
+
+.frame2Text3{
+    /* We are an architecture firm with a focus on beautiful but functional design. At its heart, we believe design is about usability and accessibility — these are the guiding principles for our work. Read more about our previous projects, our process and our team below. */
+
+position: absolute;
+height: 216px;
+left: 6.88%;
+right: -76.25%;
+top: calc(50% - 216px/2 + 468px);
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+
+color: #403E3B;
+
+
+}
+
+.frame2Text4{
+    /* Frame */
+
+position: absolute;
+height: 30px;
+left: 3.12%;
+right: 31.25%;
+top: calc(50% - 30px/2 + 591px);
+
+
+}
+
+.frame2Text44{
+    /* Read more */
+
+position: absolute;
+height: 24px;
+left: 4.76%;
+right: 3.97%;
+top: calc(50% - 24px/2);
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.4px;
+
+color: #1B1A1A;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+}
